@@ -2,11 +2,11 @@
   "name": "hs-megamenu",
   "version": "1.0.0",
   "description": "dta megamenu is the main nav element at dta.com.au",
-  "main": "hs.megamenu.js",
-  "style": "hs.megamenu.css",
+  "main": "src/hs.megamenu.js",
+  "style": "src/hs.megamenu.scss",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:michaelmoriarty/hs-megamenu.git"
+    "url": "https://github.com/michaelmoriarty/hs-megamenu.git"
   }
 }
